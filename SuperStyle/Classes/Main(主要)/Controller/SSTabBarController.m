@@ -60,7 +60,7 @@
     
     UITabBar * tabBarAppearance = [UITabBar appearance];
     [tabBarAppearance setShadowImage:[UIImage new]];
-    [tabBarAppearance setBackgroundImage:[UIImage imageWithColor:[UIColor whiteColor]]];//[UIImage imageNamed:imageStr]
+    [tabBarAppearance setBackgroundImage:[UIImage imageWithColor:JHRGB(240, 240, 240)]];//[UIImage imageNamed:imageStr]
     
 }
 
